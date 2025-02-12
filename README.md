@@ -3,12 +3,7 @@
 ## Demo  
 
 ### 📸 Project Screenshot  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/world-capital-quiz/blob/main/public/images/quiz-home.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/world-capital-quiz/blob/main/public/images/question-screen.png">  
-<img width="1280" alt="Screenshot" src="https://github.com/yourusername/world-capital-quiz/blob/main/public/images/scoreboard.png">  
-
-### 🎥 Watch the Demo Video  
-[World Capital Quiz Walkthrough Video](https://github.com/yourusername/world-capital-quiz/blob/main/public/demo/quiz-demo.mp4)  
+<img width="1280" alt="Screenshot" src="https://github.com/SegFaultSurvivor/world-capital-quiz/blob/8099d73cf08d9806a065d6c3db509e7fd672e302/public/images/world_quiz.png">  
 
 ---  
 
