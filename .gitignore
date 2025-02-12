@@ -1,0 +1,61 @@
+# Ignore all .log files
+*.log
+
+# Ignore the build directory
+/build/
+
+# Ignore node_modules directory
+/node_modules/
+
+# Ignore all .env files
+.env
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore compiled files
+*.class
+*.exe
+*.dll
+*.o
+*.so
+*.pyc
+__pycache__/
+
+# Ignore local development files
+*.local
+*.dev
+
+# Ignore dependency directories
+bower_components/
+jspm_packages/
+vendor/
+
+# Ignore npm debug logs
+npm-debug.log*
+
+# Ignore yarn logs
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore coverage directories
+/coverage/
+
+# Ignore temp directories
+/tmp/
+/temp/
+
+# Ignore cache directories
+.cache/
